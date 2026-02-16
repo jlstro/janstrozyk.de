@@ -196,7 +196,7 @@ export default function Home() {
           >
             <p className="mb-6">
               I'm Director of Data & Journalism Projects at the{' '}
-              <a href="https://www.dataresearchcenter.org" className={linkStyles}>Data and Research Center</a> (DARC), where 
+              <a href="https://dataresearchcenter.org" className={linkStyles}>Data and Research Center</a> (DARC), where 
               we design tooling and provide research that enable investigative teams to get 
               the most out of complex stories.
             </p>
